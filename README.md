@@ -8,24 +8,22 @@ Visual components and Python
 
 ## Theory
 
-![203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54](https://github.com/user-attachments/assets/923ec8dc-67d9-456b-8c98-896e3d558a64)
+![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
 
 ## Procedure :
+```
+NAME:Priyanka S
+REG NO:212224040255
 
-![203239789-bc870dce-6727-487b-a0e2-4fc3f5114889](https://github.com/user-attachments/assets/e2607e45-eced-4ec9-b136-711a30d534a7)
+```
 
+![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
 ## Experiment:
-![243261669-9e252a77-df6b-410c-b22b-2db70a586d97](https://github.com/user-attachments/assets/92ebb802-89f7-46cc-9f12-bf2a6e85bbb4)
-![243261678-323ed3a3-45ed-4559-9012-23d73369af6d](https://github.com/user-attachments/assets/ac316fa9-c6a5-4771-a7b6-1babc197b04f)
-
-
 ## Program
-DEVELOPED BY : PRIYANGA R
-REGISTER NO : 212223230161
-
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -64,9 +62,12 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 
+```
+
 ## Output
-![243261541-d61c45cf-04e3-4052-aeb4-ebb3cbe9ac2d](https://github.com/user-attachments/assets/d9e12554-7975-463b-845d-2b336050655f)
+
+![math6](https://github.com/user-attachments/assets/f8d81c8e-dc37-40fa-899b-5faed94d88f4)
 
 
 ## Result
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+The average number of material in the system and in the conveyor and waiting time are successfully found.
